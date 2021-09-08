@@ -1,0 +1,76 @@
+body {
+    background-color: hsl(0,0%,180%);
+    background-image: url(images/carlossialer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+
+}
+heather {   
+    background-color: aqua;
+    height: 118px;
+    text-align: center;
+    
+    
+} 
+
+nav {
+    background-color: hsl(0, 0%,0, .00050%);
+    height: 40px;
+    width: 1024px;
+}
+
+main {
+    background-color: rgb(37, 124, 206);
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer {
+    background-color: greenyellow;
+    height: 100px;
+    
+    
+}
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+} 
+
+
+p {
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+a {
+    color: red;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
